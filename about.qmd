@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "CV"
 ---
 
-About this site
+<iframe src="Media/SBD_CV-2025_12_24.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
-```{r}
-1 + 1
-```
+[Download CV (PDF)](Media/SBD_CV-2025_12_24.pdf){.btn .btn-primary}

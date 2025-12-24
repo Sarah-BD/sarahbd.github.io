@@ -5,10 +5,14 @@ project:
 website:
   title: "Sarah Bauerle Danzman"
   navbar:
+    background: secondary
+    search: true
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - pubs.qmd
+
 
 format:
   html:
