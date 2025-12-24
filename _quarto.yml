@@ -13,10 +13,11 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - flatly
+ #     - brand
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
