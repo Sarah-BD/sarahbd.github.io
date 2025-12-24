@@ -1,5 +1,5 @@
 ---
-title: "sbd_website"
+title: "Sarah Bauerle Danzman"
 ---
 
 This is a Quarto website.
