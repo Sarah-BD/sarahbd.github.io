@@ -1,0 +1,23 @@
+@import "theme";  // Imports current theme variables
+
+.research-item {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid $gray-200;
+}
+
+.research-item h3 {
+  color: $headings-color;
+}
+
+.research-item p {
+  color: $text-muted;
+}
+
+.research-item a {
+  color: $link-color;
+  
+  &:hover {
+    color: $link-hover-color;
+  }
+}

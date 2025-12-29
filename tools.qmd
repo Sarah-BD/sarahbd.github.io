@@ -1,0 +1,6 @@
+---
+title: "Tools"
+format: html
+---
+
+This page catalogs my preferred work flow and productivity applications. First, I wish to thank Andrew Heiss for his excellent website, Blue Sky account, and materials he has generated for the public good. It should be obvious that much of my website cribs from his design.

@@ -1,0 +1,149 @@
+---
+title: "Teaching"
+page-layout: full
+toc: true 
+css: teaching-styles.scss
+toc-location: right
+toc-depth: 2
+toc-title: "Academic Year"
+---
+
+I teach courses in the International Studies department at the Hamilton Lugar School of Global and International Studies at Indiana University, Bloomington. My primary teaching responsibilities include core courses in the INTL B.A/S. degree's global development concentration, the new INTL International Financial Governance, Trade, and Development B.S., the Dual HLS/O'Neill Masters in International Affairs, and resesarch design courses required across each of these degrees. Here, I maintain the past few years of my courses.
+
+## 2025-26
+
+::: {.course-container}
+
+::: {.course-card}
+::: {.course-header}
+::: {.hex-icon}
+:::
+
+::: {.course-title-block}
+### Research Design
+**INTL-I315/515** · Fall 
+:::
+:::
+
+Introduction to quantitative and qualitative research methods in international studies, with emphasis on statistical analysis and case study design.
+
+::: {.course-buttons}
+[<i class="fas fa-globe"></i> Course Website](https://courses.iu.edu/intl-i315){.btn .btn-primary .btn-sm}
+[<i class="fas fa-file-pdf"></i> Syllabus](files/INTL-I315-syllabus.pdf){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+
+::: {.course-card}
+::: {.course-header}
+::: {.hex-icon}
+:::
+### Global Governance and International Institutions
+**INTL-I521** · Fall 
+:::
+:::
+
+Introduction to quantitative and qualitative research methods in international studies, with emphasis on statistical analysis and case study design.
+
+::: {.course-buttons}
+[<i class="fas fa-globe"></i> Course Website](https://courses.iu.edu/intl-i315){.btn .btn-primary .btn-sm}
+[<i class="fas fa-file-pdf"></i> Syllabus](files/INTL-I315-syllabus.pdf){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+
+::: {.course-card}
+::: {.course-header}
+::: {.hex-icon}
+:::
+
+### International Political Economy
+**INTL-I3XX** · Summer 
+:::
+:::
+
+Introduction to quantitative and qualitative research methods in international studies, with emphasis on statistical analysis and case study design.
+
+::: {.course-buttons}
+[<i class="fas fa-globe"></i> Course Website](https://courses.iu.edu/intl-i315){.btn .btn-primary .btn-sm}
+[<i class="fas fa-file-pdf"></i> Syllabus](files/INTL-I315-syllabus.pdf){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+
+::: {.course-card}
+::: {.course-header}
+::: {.hex-icon}
+:::
+
+## 2024-2025
+
+### Research Design
+**INTL-I315/515** · Fall · Spring
+:::
+:::
+
+Introduction to quantitative and qualitative research methods in international studies, with emphasis on statistical analysis and case study design.
+
+::: {.course-buttons}
+[<i class="fas fa-globe"></i> Course Website](https://courses.iu.edu/intl-i315){.btn .btn-primary .btn-sm}
+[<i class="fas fa-file-pdf"></i> Syllabus](files/INTL-I315-syllabus.pdf){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+
+::: {.course-card}
+::: {.course-header}
+::: {.hex-icon}
+:::
+
+### Global Business
+**INTL-103** · Fall
+:::
+:::
+
+Introduction to quantitative and qualitative research methods in international studies, with emphasis on statistical analysis and case study design.
+
+::: {.course-buttons}
+[<i class="fas fa-globe"></i> Course Website](https://courses.iu.edu/intl-i315){.btn .btn-primary .btn-sm}
+[<i class="fas fa-file-pdf"></i> Syllabus](files/INTL-I315-syllabus.pdf){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+
+::: {.course-card}
+::: {.course-header}
+::: {.hex-icon}
+:::
+
+### Global Development
+**INTL-I522** · Spring
+:::
+:::
+
+I-522 is the core graduate course in Global Development in International Studies. We will explore the political, economic, social and cultural forces shaping global development outcomes.
+
+::: {.course-buttons}
+[<i class="fas fa-globe"></i> Course Website](https://courses.iu.edu/intl-i315){.btn .btn-primary .btn-sm} 
+[<i class="fas fa-file-pdf"></i> Syllabus](files/INTL-I315-syllabus.pdf){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+
+::: {.course-card}
+::: {.course-header}
+::: {.hex-icon}
+:::
+
+## 2023-2024
+### Geoeconomic Statecraft
+**INTL-I503** · Summer 
+:::
+:::
+
+Introduction to core concepts fo geconomics, economic statecraft, and ecounty security. Students will analyze the use of financial sanctions, strategic trade restrictions, and investment security policy and evaluate the effectiveness and implications of economic statecraft on global politics.
+
+::: {.course-buttons}
+[<i class="fas fa-globe"></i> Course Website](https://courses.iu.edu/intl-i315){.btn .btn-primary .btn-sm}
+[<i class="fas fa-file-pdf"></i> Syllabus](Media/INTL503-Geoeconomic Statecraft.pdf){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+
+::: {.course-card}
+::: {.course-header}
+::: {.hex-icon}
+:::

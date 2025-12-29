@@ -13,7 +13,7 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/sarah-bauerle-danzman/
-    - icon: fa-brands fa-bluesky
+    - icon: bluesky
       text: BlueSky
       href: https://bsky.app/profile/sarahbauerled.bsky.social
     - icon: github
@@ -21,11 +21,10 @@ about:
       href: https://github.com
 ---
 
-:::{#hero-heading}
-
+::: {#hero-heading}
 Welcome! I am a political scientist and associate professor of international studies at the Hamilton Lugar School of Global and International Studies at Indiana University, Bloomington. I am also the director of the Tobias Center for Innovation in International Development here at IU, a non-resident senior fellow at the Atlantic Council, and a term member of the Council on Foreign Relations.
 
-I specialize in the international political economy of global production and finance. My scholarship addresses questions of how economic integration affects the relative political power of business actors and the state. Global firms have been the engine of economic integration and global growth, and the period from the 1970s through about 2010 transformed the ways in which production and finance were organized locally and globally. This fundamentally altered the power structures among local business, foreign capital, social groups, and the state. The period after the Global Financial Crisis has heralded increased geopolitical competition, a crisis of democracy driven in part by the challenges of late-stage growth and globalization, and a series of crises that crystalized the vulnerabilities of connection. 
+I specialize in the international political economy of global production and finance. My scholarship addresses questions of how economic integration affects the relative political power of business actors and the state. Global firms have been the engine of economic integration and global growth, and the period from the 1970s through about 2010 transformed the ways in which production and finance were organized locally and globally. This fundamentally altered the power structures among local business, foreign capital, social groups, and the state. The period after the Global Financial Crisis has heralded increased geopolitical competition, a crisis of democracy driven in part by the challenges of late-stage growth and globalization, and a series of crises that crystalized the vulnerabilities of connection.
 
 My current scholarship focuses intently on the intersection of national security and international economic policies. This includes the politics of investment regulation, great power technology competition, and the consequences of securited political economy on innovation, international cooperation, and democratic governance.
 

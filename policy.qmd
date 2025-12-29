@@ -1,0 +1,43 @@
+---
+title: "Policy"
+page-layout: article
+toc: true
+toc-location: right
+toc-depth: 2
+toc-title: "On this page"
+---
+I write and comment on investment security policy strategy, design, and implementation. I am active in policy circles related to outbound investment controls, inward investment screening (especially CFIUS), export control policy, and economic security. I am a non-resident Senior Fellow at the Atlantic Council's Geoeocnomic Center, a Council on Foreign Relations Term Member, and a Senior Advisory Fellow at CELIS.
+
+## Taskforce Activities
+
+CFR Economic Security
+
+## Congressional and Government Testimony
+
+2025\. “Ensuring Investment Security is Narrow, Rigorous, and Fair.” Testimony before the House Committee on Financial Services Subcommittee on National Security Illicit Finance, and International Financial Services, 16 July.
+
+2024\. “Outbound Investment from the United States to China.” Invited Written Testimony for the US-China Economic and Security Review Commission, 23 May.
+
+2023\. “Private Funds/Markets and Outbound Investments in Countries of Concern,” Testimony before the U.S. Securities and Exchange Commission Investor Advisory Committee, 22 June.
+
+2022\. “Toward a Balanced Outbound Investment Screening Regime” Testimony before the Senate Committee on Banking, Housing, and Urban Affairs, 29 September.
+
+## Policy Reports and Commentary
+
+2024\. Bauerle Danzman, Sarah. Sharing the Post Carbon Economy Means Building a Resilient EV Supply Chain. Atlantic Council. September. https://www.atlanticcouncil.org/in-depth-research-reports/report/sharing-the-post-carbon-economy-means-building-a-resilient-ev-supply-chain/
+
+2023\. Bauerle Danzman, Sarah. Shaping Investment Security Policy: A Guide for Business Associations. Center for Private Investment and Enterprise. May. https://www.cipe.org/resources/shaping-investment-security-policy-a-guide-for-business-associations/
+
+2022\. Bauerle Danzman, Sarah and Emily Kilcrease. “The Illusion of Controls: Unilateral Attempts to Contain China’s Technology Ambitions Will Fail” Foreign Affairs 30 December. https://www.foreignaffairs.com/united-states/illusion-controls
+
+2022\. Bauerle Danzman, Sarah and Emily Kilcrease. Sand in the Silicon: Designing an Outbound Investment Controls Mechanism. Atlantic Council and CNAS Issue Brief. September.
+
+2021\. Bauerle Danzman, Sarah. “National Security, Investment Review, and Sensitive Data.” Proceedings of the American Society of International Law 2021, doi:10.1017/amp.2021.103 2017 Bauerle Danzman, Sarah. “Leveraging WAIPA to Facilitate Private Sector Linkages.” World Association of Investment Promotion Agencies Research Note April. (1658 words)
+
+2016\. Bauerle Danzman, Sarah, Jacqueline Bauman, Michael Holmberg, Jonathan Hreha, Karis Neufeld, Anna Piskunova, Alec Resch, Jamie Spitz, Jocelyn Wallace, and Anna Williams. “Incentivizing an Increasingly Automated Manufacturing Sector: A Descriptive Analysis of U.S. States’ Manufacturing Investment Promotion Programs” Smart Incentives Policy Report December, pp. 1-20.
+
+## Technical Comments on Government Proposed Regulation
+
+2024\. Comments on Provisions Pertaining to U.S. Investment in Certain National Security Technologies and Products in Countries of Concern. (With Emily Kilcrease, Geoffrey Gertz, Tim Fist, and Ngor Luong) August. (Comments on Proposed Rule)
+
+2023\. Comments on Provisions Pertaining to U.S. Investment in Certain National Security Technologies and Products in Countries of Concern. (With Emily Kilcrease, Tim Fist, Ngor Luong, and Emily Weinstein) September. (Comments on Advanced Notice of Proposed Rulemaking)

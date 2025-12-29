@@ -1,0 +1,219 @@
+// Import Bootstrap theme variables
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/mixins";
+
+/* Course grid container */
+.course-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: $spacer * 1.5;
+  margin-top: $spacer * 2;
+  margin-bottom: $spacer * 3;
+}
+
+
+/* Individual course card */
+.course-card {
+  background: $white;
+  border: $border-width solid $border-color;
+  border-radius: $border-radius-lg;
+  padding: $spacer * 1.5;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: $box-shadow;
+  }
+}
+
+/* Header section with icon and title */
+.course-header {
+  display: flex;
+  align-items: flex-start;
+  gap: $spacer * 0.75;
+  margin-bottom: $spacer;
+}
+
+/* Hexagon icon container */
+.hex-icon {
+  width: 40px;
+  height: 40px;
+  min-width: 40px;
+  background: $primary;
+  clip-path: polygon(50% 0%, 90% 25%, 90% 75%, 50% 100%, 10% 75%, 10% 25%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  /* Icon inside hexagon */
+  i {
+    color: $white;
+    font-size: 1.1rem;
+  }
+  
+  /* If using images instead of Font Awesome */
+  img {
+    width: 20px;
+    height: 20px;
+    filter: brightness(0) invert(1);
+  }
+}
+
+/* Title and course info container */
+.course-info {
+  h3 {
+    margin: 0 0 $spacer * 0.2 0;
+    font-size: $h5-font-size;
+    font-weight: $headings-font-weight;
+    line-height: $headings-line-height;
+    color: $headings-color;
+  }
+  
+  p {
+    margin: 0;
+    font-size: $small-font-size;
+    color: $text-muted;
+  }
+}
+
+/* Course description */
+.course-description {
+  flex-grow: 1;
+  margin-bottom: $spacer;
+  font-size: $font-size-base * 0.95;
+  line-height: $line-height-base;
+  color: $body-color;
+}
+
+/* Button group */
+.course-links {
+  display: flex;
+  gap: $spacer * 0.5;
+  flex-wrap: wrap;
+  
+  .btn {
+    padding: $btn-padding-y-sm $btn-padding-x-sm;
+    font-size: $btn-font-size-sm;
+    border-radius: $btn-border-radius-sm;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: $spacer * 0.375;
+    transition: $btn-transition;
+    
+    i {
+      font-size: $btn-font-size-sm;
+    }
+  }
+}
+
+/* Primary button using theme colors */
+.btn-primary {
+  background-color: $primary;
+  color: color-contrast($primary);
+  border: $btn-border-width solid $primary;
+  
+  &:hover {
+    background-color: shade-color($primary, $btn-hover-bg-shade-amount);
+    border-color: shade-color($primary, $btn-hover-border-shade-amount);
+    color: color-contrast(shade-color($primary, $btn-hover-bg-shade-amount));
+  }
+}
+
+/* Outline button using theme colors */
+.btn-outline {
+  background-color: transparent;
+  color: $secondary;
+  border: $btn-border-width solid $border-color;
+  
+  &:hover {
+    background-color: $gray-100;
+    color: $body-color;
+    border-color: $gray-400;
+  }
+}
+
+/* Color variations for hex icons using theme colors */
+.course-card {
+  &:nth-child(1) .hex-icon { background-color: $success; }
+  &:nth-child(2) .hex-icon { background-color: $danger; }
+  &:nth-child(3) .hex-icon { background-color: $warning; }
+  &:nth-child(4) .hex-icon { background-color: $info; }
+  &:nth-child(5) .hex-icon { background-color: $purple; }
+  &:nth-child(6) .hex-icon { background-color: $pink; }
+  
+  // Fallback if theme doesn't have purple/pink
+  &:nth-child(5) .hex-icon { background-color: if(variable-exists(purple), $purple, $primary); }
+  &:nth-child(6) .hex-icon { background-color: if(variable-exists(pink), $pink, $secondary); }
+}
+
+/* Alternative: Use tints of primary color for consistency */
+// .course-card {
+//   &:nth-child(1) .hex-icon { background-color: $primary; }
+//   &:nth-child(2) .hex-icon { background-color: tint-color($primary, 20%); }
+//   &:nth-child(3) .hex-icon { background-color: shade-color($primary, 20%); }
+//   &:nth-child(4) .hex-icon { background-color: shift-color($primary, 20%); }
+//   &:nth-child(5) .hex-icon { background-color: $secondary; }
+//   &:nth-child(6) .hex-icon { background-color: $success; }
+// }
+
+/* Responsive design */
+@include media-breakpoint-down(md) {
+  .course-container {
+    grid-template-columns: 1fr;
+    gap: $spacer;
+  }
+  
+  .course-card {
+    padding: $spacer * 1.25;
+  }
+}
+
+/* Section spacing */
+h2 {
+  margin-top: $spacer * 3;
+  margin-bottom: $spacer * 1.5;
+  padding-bottom: $spacer * 0.5;
+  border-bottom: $border-width solid $border-color;
+  color: $headings-color;
+}
+
+/* Past courses list styling */
+.past-courses {
+  list-style: none;
+  padding: 0;
+  
+  li {
+    padding: $spacer * 0.5 0;
+    border-bottom: $border-width solid $gray-100;
+    color: $body-color;
+  }
+  
+  a {
+    color: $link-color;
+    text-decoration: $link-decoration;
+    
+    &:hover {
+      color: $link-hover-color;
+      text-decoration: underline;
+    }
+  }
+}
+
+/* Mixin for custom hex colors if needed */
+@mixin hex-icon-color($color) {
+  background-color: $color;
+  
+  i, img {
+    color: color-contrast($color);
+  }
+}
+
+/* Example of using custom colors for specific courses */
+// .course-research .hex-icon {
+//   @include hex-icon-color($teal);
+// }

@@ -5,14 +5,26 @@ project:
 website:
   title: "Sarah Bauerle Danzman"
   navbar:
-    background: secondary
+    background: primary
     search: true
     left:
-      - href: index.qmd
-        text: Home
+      - text: "Home"
+        href: index.qmd
       - about.qmd
-      - pubs.qmd
-
+      - research.qmd
+      - policy.qmd
+      - teaching.qmd
+      - leadership.qmd
+      - tools.qmd
+    tools:
+      - icon: envelope
+        href: mailto:sbauerle@iu.edu
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sarah-bauerle-danzman/
+      - icon: bi-bluesky
+        href: https://bsky.app/profile/sarahbauerled.bsky.social
+      - icon: github
+        href: https://github.com
 
 format:
   html:
@@ -20,6 +32,10 @@ format:
       - flatly
  #     - brand
     css: styles.css
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     toc: true
     page-layout: full
 

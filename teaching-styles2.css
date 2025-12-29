@@ -1,0 +1,177 @@
+/* Course grid container */
+.course-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin: 2rem 0 3rem 0;
+}
+
+/* Individual course card - two column layout */
+.course-card {
+  background: #ffffff;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  padding: 1.5rem;
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  gap: 2rem;
+  align-items: start;
+  transition: box-shadow 0.2s ease;
+}
+
+.course-card:hover {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Left column container */
+.course-icon {
+  width: 80px;
+  height: 80px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.course-icon i {
+  font-size: 2.5rem;
+  color: white;
+}
+
+/* Different gradient colors for each course */
+.course-card:nth-child(1) .course-icon {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.course-card:nth-child(2) .course-icon {
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+}
+
+.course-card:nth-child(3) .course-icon {
+  background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+}
+
+.course-card:nth-child(4) .course-icon {
+  background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+}
+
+/* Semesters list - now below icon */
+.course-semesters {
+  font-size: 0.9rem;
+  line-height: 1.8;
+  color: #6c757d;
+}
+
+.course-semesters strong {
+  color: #2c3e50;
+  font-size: 0.95rem;
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+/* Right column - course details */
+.course-details {
+  flex-grow: 1;
+}
+
+.course-details h3 {
+  margin: 0 0 0.75rem 0;
+  font-size: 1.35rem;
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+.course-details p {
+  margin: 0 0 1rem 0;
+  line-height: 1.6;
+  color: #495057;
+  font-size: 0.95rem;
+}
+
+/* Button container */
+.course-buttons {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+/* Button styling */
+.btn {
+  padding: 0.4rem 0.9rem;
+  font-size: 0.875rem;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  transition: all 0.2s ease;
+  border: 1px solid transparent;
+}
+
+.btn-syllabus {
+  background-color: #e3f2fd;
+  color: #1976d2;
+  border-color: #bbdefb;
+}
+
+.btn-syllabus:hover {
+  background-color: #bbdefb;
+  border-color: #90caf9;
+}
+
+.btn-course {
+  background-color: #f3e5f5;
+  color: #7b1fa2;
+  border-color: #e1bee7;
+}
+
+.btn-course:hover {
+  background-color: #e1bee7;
+  border-color: #ce93d8;
+}
+
+.btn i {
+  font-size: 0.875rem;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .course-card {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  
+  .course-icon {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 0.75rem;
+  }
+  
+  .course-icon i {
+    font-size: 1.8rem;
+  }
+  
+  .course-semesters {
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #e9ecef;
+  }
+}
+
+/* Past courses section */
+h2 {
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #e9ecef;
+  color: #2c3e50;
+}
+
+h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #495057;
+  font-size: 1.1rem;
+}
