@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Sarah Bauerle Danzman"
+  cookie-consent: true
+  page-footer: "© 2025, Sarah Bauerle Danzman"
   navbar:
     background: primary
     search: true
@@ -16,12 +18,12 @@ website:
       - teaching.qmd
       - leadership.qmd
       - tools.qmd
-    tools:
+    right:
       - icon: envelope
         href: mailto:sbauerle@iu.edu
       - icon: linkedin
         href: https://www.linkedin.com/in/sarah-bauerle-danzman/
-      - icon: bi-bluesky
+      - text: "{{< fa brands square-bluesky >}}"        
         href: https://bsky.app/profile/sarahbauerled.bsky.social
       - icon: github
         href: https://github.com

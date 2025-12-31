@@ -18,35 +18,35 @@
     "href": "leadership.html",
     "title": "Leadership & Initiatives",
     "section": "",
-    "text": "Here include:"
+    "text": "Along with my scholarly, teaching, and policy pursuits, I am passionate about academic leadership. This professional interest is guided by the Phi Beta Kappa motto, “Love of learning is the guide of life.” A liberal arts education provides the best foundation for a virtuous, civicly minded, and fulfilling life. For too long, university leaders have not articulated the moral and financial value of the liberal arts, have allowed liberal arts curricula to be diluted, and have not been nimble to rising costs and administrative bloat. I view academic leadership as a way to defend and improve the liberal arts for future generations."
   },
   {
     "objectID": "leadership.html#data-sets",
     "href": "leadership.html#data-sets",
     "title": "Leadership & Initiatives",
     "section": "Data Sets",
-    "text": "Data Sets\nPRISM\nNSF"
+    "text": "Data Sets\nI am co-PI for the Politics and Regulation of Investment Screening Mechanisms (PRISM) project. Please see more, including how to request access to the dataset here. The PRISM dataset is updated yearly.\nI am PI for the NSF-funded project Transnational Political Business Connections. When the dataset is shareable, it will be linked here."
   },
   {
     "objectID": "leadership.html#law-geoeconomics",
     "href": "leadership.html#law-geoeconomics",
     "title": "Leadership & Initiatives",
     "section": "Law & Geoeconomics",
-    "text": "Law & Geoeconomics"
+    "text": "Law & Geoeconomics\nI am co-editor-in-chief for the Brill journal Law & Geoeconomics. This multidisciplinary journal publishes scholarly, peer-reviewed articles on issues related to concepts such as “economic statecraft”, “weaponized interdependence”, “economic diplomacy”, “economic security”, “economic warfare”, and “geoeconomics.” As scholarly interest in this rearticulation of economic and security logics increases, Law & Geoeconomics provides a venue to develop the conceptual, theoretical, and empirical knowledge necessary to advance interdisciplinary inquiry and help consolidate this emerging field. To learn more about the journal, read its issues, and submit a manuscript, see here."
   },
   {
     "objectID": "leadership.html#the-tobias-center-for-innovation-in-international-development",
     "href": "leadership.html#the-tobias-center-for-innovation-in-international-development",
     "title": "Leadership & Initiatives",
     "section": "The Tobias Center for Innovation in International Development",
-    "text": "The Tobias Center for Innovation in International Development"
+    "text": "The Tobias Center for Innovation in International Development\nI am the founding director of the Tobias Center for Innovation in International Development. Housed in the Hamilton Lugar School of Global and International Studies, the Tobias Center supports multidisciplinary research on economic development (with an emphasis on measurement, evaluation, and learning), programming and pedagogy related to international development, and scholarly engagement with the policy community. See more here."
   },
   {
-    "objectID": "leadership.html#major-service-roles",
-    "href": "leadership.html#major-service-roles",
+    "objectID": "leadership.html#other-major-service-roles",
+    "href": "leadership.html#other-major-service-roles",
     "title": "Leadership & Initiatives",
-    "section": "Major Service Roles",
-    "text": "Major Service Roles"
+    "section": "Other Major Service Roles",
+    "text": "Other Major Service Roles\n\nI am an at-large representative for IUB’s College Policy Committee. In 2024-25, I was the Policy Committee Chair.\nIn 2025-26, I am the chair of the International Studies Executive Committee.\nI am on the steering committee for Global Research in Political Economy.\nI am on the executive committee for IUB’s Gamma Chapter of Phi Beta Kappa"
   },
   {
     "objectID": "research.html",
@@ -84,6 +84,41 @@
     "text": "Other Writing\n\nTikTok and National Security: Investment in an Age of Data Sovereignty?\nJeremy Friedman, Sarah Bauerle Danzman, and David Lane. Harvard Business School Publishing, HBS No. N9-722-020, 2022.\n\n\nIntroduction: Integrating Extractive Resource Politics into Broader International Political Economy\nSarah Bauerle Danzman. 2021. Texas National Security Review, Review Symposium of Power Grab: Political Survival through Extractive Resource Nationalization (Cambridge University Press) by Paasha Mahdavi."
   },
   {
+    "objectID": "Research/bauerle_danzman-2025-SPE.html#important-links",
+    "href": "Research/bauerle_danzman-2025-SPE.html#important-links",
+    "title": "Securitized political economy, investment regulation and business influence in a geoeconomic era",
+    "section": "Important links",
+    "text": "Important links\n\nPaper (preprint)\nAppendix (preprint)\nStatistical analysis notebook\nGitHub repository\nExperiment preregistration (research question #2)"
+  },
+  {
+    "objectID": "Research/bauerle_danzman-2025-SPE.html#abstract",
+    "href": "Research/bauerle_danzman-2025-SPE.html#abstract",
+    "title": "Securitized political economy, investment regulation and business influence in a geoeconomic era",
+    "section": "Abstract",
+    "text": "Abstract\nThe phenomenon of closing civic space has adversely impacted INGO funding. We argue that individual private donors can be important in sustaining the operations of INGOs working in repressive contexts. Individual donors do not use the same performance-based metrics as official aid donors. Rather, trust can be an important component of individual donor support for nonprofits working towards difficult goals. How does trust in charitable organizations influence individuals’ preferences to donate, especially when these groups face crackdown? Using a simulated market for philanthropic donations based on data from a nationally representative sample of individuals in the United States who regularly donate to charity, we find that trust in INGOs matters substantially in shaping donor preferences. Donor profiles with high levels of social trust are likely to donate to INGOs with friendly relationships with host governments. This support holds steady if INGOs face criticism or crackdown. In contrast, donor profiles with lower levels of social trust prefer to donate to organizations that do not face criticism or crackdown abroad. The global crackdown on NGOs may thus possibly sour NGOs’ least trusting individual donors. Our findings have practical implications for INGOs raising funds from individuals amid closing civic space."
+  },
+  {
+    "objectID": "Research/bauerle_danzman-2025-SPE.html#important-figure",
+    "href": "Research/bauerle_danzman-2025-SPE.html#important-figure",
+    "title": "Securitized political economy, investment regulation and business influence in a geoeconomic era",
+    "section": "Important figure",
+    "text": "Important figure\nFigure 4: Average predicted donation market shares across all personas, segmented by persona public affairs knowledge, political ideology, and social trust across different NGO–host government relationships\n\n\n\nFigure 4: Average predicted donation market shares across all personas, segmented by persona public affairs knowledge, political ideology, and social trust across different NGO–host government relationships"
+  },
+  {
+    "objectID": "Research/bauerle_danzman-2025-SPE.html#data-and-code",
+    "href": "Research/bauerle_danzman-2025-SPE.html#data-and-code",
+    "title": "Securitized political economy, investment regulation and business influence in a geoeconomic era",
+    "section": "Data and code",
+    "text": "Data and code\nThe project is reproducible with R code available at GitHub. Follow the instructions there to install all supporting files and R packages.\nThis project includes the following data files:\n\ndata/raw_data/final_data.rds: Original results from the Qualtrics survey. This is hosted at OSF because of its size. Running targets::tar_make(survey_results_file) will download the .rds file from OSF and place it in data/raw_data. The code for cleaning and processing this data is part of a separate project, “Why Donors Donate”.\ndata/derived_data/survey_results.csv: CSV version of the survey data.\ndata/derived_data/survey_results.yaml: YAML metadata describing the syntax of the survey data.\ndata/raw_data/posterior_draws/public_political_social_charity_demo.rds: Gamma (Γ) coefficients from our multilevel Bayesian model. This is hosted at OSF because of its size. Running targets::tar_make(gamma_draws_file) will download the .rds file from OSF and place it in data/raw_data/posterior_draws. The code for running this model is part of a separate project, “Why Donors Donate”.\ndata/raw_data/Market Simulator Version 01.xlsx: An interactive Excel version of the market simulator to help demonstrate the intuition behind all the moving parts of the simulation."
+  },
+  {
+    "objectID": "Research/bauerle_danzman-2025-SPE.html#citation",
+    "href": "Research/bauerle_danzman-2025-SPE.html#citation",
+    "title": "Securitized political economy, investment regulation and business influence in a geoeconomic era",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@article{ChaudhryDotsonHeiss:2021,\n    Author = {Suparna Chaudhry and Marc Dotson and Andrew Heiss},\n    Doi = {10.1111/1758-5899.12984},\n    Journal = {Global Policy},\n    Month = {7},\n    Number = {S5},\n    Pages = {45--58},\n    Title = {Who Cares About Crackdowns? Exploring the Role of Trust in Individual Philanthropy},\n    Volume = {12},\n    Year = {2021}}"
+  },
+  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -116,7 +151,7 @@
     "href": "tools.html",
     "title": "Tools",
     "section": "",
-    "text": "This page catalogs my preferred work flow and productivity applications. First, I wish to thank Andrew Heiss for his excellent website, Blue Sky account, and materials he has generated for the public good. It should be obvious that much of my website cribs from his design."
+    "text": "This page will catalog my preferred work flow and productivity applications. First, I wish to thank Andrew Heiss for his excellent website, Blue Sky account, and materials he has generated for the public good. It should be obvious that much of my website cribs from his design.\nCheck back later as I develop this page."
   },
   {
     "objectID": "policy.html",
@@ -130,28 +165,28 @@
     "href": "policy.html#taskforce-activities",
     "title": "Policy",
     "section": "Taskforce Activities",
-    "text": "Taskforce Activities\nCFR Economic Security"
+    "text": "Taskforce Activities\n\nU.S Economic Security: Winning the Race for Tomorrow’s Technology\nParticipated as a Council on Foreign Relations Taskforce Member. Provided CFR’s briefing to the Association of Lt. Governors in December 2025."
   },
   {
     "objectID": "policy.html#congressional-and-government-testimony",
     "href": "policy.html#congressional-and-government-testimony",
     "title": "Policy",
     "section": "Congressional and Government Testimony",
-    "text": "Congressional and Government Testimony\n2025. “Ensuring Investment Security is Narrow, Rigorous, and Fair.” Testimony before the House Committee on Financial Services Subcommittee on National Security Illicit Finance, and International Financial Services, 16 July.\n2024. “Outbound Investment from the United States to China.” Invited Written Testimony for the US-China Economic and Security Review Commission, 23 May.\n2023. “Private Funds/Markets and Outbound Investments in Countries of Concern,” Testimony before the U.S. Securities and Exchange Commission Investor Advisory Committee, 22 June.\n2022. “Toward a Balanced Outbound Investment Screening Regime” Testimony before the Senate Committee on Banking, Housing, and Urban Affairs, 29 September."
+    "text": "Congressional and Government Testimony\n\nEnsuring Investment Security is Narrow, Rigorous, and Fair\nTestimony before the House Committee on Financial Services Subcommittee on National Security Illicit Finance, and International Financial Services, 16 July, 2025.\n PDF |  Watch\n\n\nOutbound Investment from the United States to China\nInvited Written Testimony for the US-China Economic and Security Review Commission, 23 May, 2024.\n PDF |  Watch\n\n\nPrivate Funds/Markets and Outbound Investments in Countries of Concern\nTestimony before the U.S. Securities and Exchange Commission Investor Advisory Committee, 22 June, 2023.\n PDF |  Watch\n\n\nToward a Balanced Outbound Investment Screening Regime\nTestimony before the Senate Committee on Banking, Housing, and Urban Affairs, 29 September, 2022.\n PDF |  Watch"
   },
   {
     "objectID": "policy.html#policy-reports-and-commentary",
     "href": "policy.html#policy-reports-and-commentary",
     "title": "Policy",
     "section": "Policy Reports and Commentary",
-    "text": "Policy Reports and Commentary\n2024. Bauerle Danzman, Sarah. Sharing the Post Carbon Economy Means Building a Resilient EV Supply Chain. Atlantic Council. September. https://www.atlanticcouncil.org/in-depth-research-reports/report/sharing-the-post-carbon-economy-means-building-a-resilient-ev-supply-chain/\n2023. Bauerle Danzman, Sarah. Shaping Investment Security Policy: A Guide for Business Associations. Center for Private Investment and Enterprise. May. https://www.cipe.org/resources/shaping-investment-security-policy-a-guide-for-business-associations/\n2022. Bauerle Danzman, Sarah and Emily Kilcrease. “The Illusion of Controls: Unilateral Attempts to Contain China’s Technology Ambitions Will Fail” Foreign Affairs 30 December. https://www.foreignaffairs.com/united-states/illusion-controls\n2022. Bauerle Danzman, Sarah and Emily Kilcrease. Sand in the Silicon: Designing an Outbound Investment Controls Mechanism. Atlantic Council and CNAS Issue Brief. September.\n2021. Bauerle Danzman, Sarah. “National Security, Investment Review, and Sensitive Data.” Proceedings of the American Society of International Law 2021, doi:10.1017/amp.2021.103 2017 Bauerle Danzman, Sarah. “Leveraging WAIPA to Facilitate Private Sector Linkages.” World Association of Investment Promotion Agencies Research Note April. (1658 words)\n2016. Bauerle Danzman, Sarah, Jacqueline Bauman, Michael Holmberg, Jonathan Hreha, Karis Neufeld, Anna Piskunova, Alec Resch, Jamie Spitz, Jocelyn Wallace, and Anna Williams. “Incentivizing an Increasingly Automated Manufacturing Sector: A Descriptive Analysis of U.S. States’ Manufacturing Investment Promotion Programs” Smart Incentives Policy Report December, pp. 1-20."
+    "text": "Policy Reports and Commentary\n\nSharing the Post Carbon Economy Means Building a Resilient EV Supply Chain\nSarah Bauerle Danzman. Atlantic Council. September 2024.\n PDF |  Watch\n\n\nShaping Investment Security Policy: A Guide for Business Associations\nSarah Bauerle Danzman. Center for Private Investment and Enterprise. May 2023.\n PDF |  Watch\n\n\nThe Illusion of Controls: Unilateral Attempts to Contain China’s Technology Ambitions Will Fail\nSarah Bauerle Danzman and Emily Kilcrease. Foreign Affairs 30 December.\n PDF |  Watch\n\n\nSand in the Silicon: Designing an Outbound Investment Controls Mechanism\nSarah Bauerle Danzman and Emily Kilcrease. Atlantic Council and CNAS Issue Brief. September 2022.\n PDF |  Watch\n\n\nNational Security, Investment Review, and Sensitive Data\nSarah Bauerle Danzman. Proceedings of the American Society of International Law 2021.\n PDF |  Watch\n\n\nLeveraging WAIPA to Facilitate Private Sector Linkages\nSarah Bauerle Danzman. World Association of Investment Promotion Agencies Research Note April, 2017.\n\n\nIncentivizing an Increasingly Automated Manufacturing Sector: A Descriptive Analysis of U.S. States’ Manufacturing Investment Promotion Programs\nSarah Bauerle Danzman, Jacqueline Bauman, Michael Holmberg, Jonathan Hreha, Karis Neufeld, Anna Piskunova, Alec Resch, Jamie Spitz, Jocelyn Wallace, and Anna Williams. Smart Incentives Policy Report December 2016, pp. 1-20."
   },
   {
     "objectID": "policy.html#technical-comments-on-government-proposed-regulation",
     "href": "policy.html#technical-comments-on-government-proposed-regulation",
     "title": "Policy",
     "section": "Technical Comments on Government Proposed Regulation",
-    "text": "Technical Comments on Government Proposed Regulation\n2024. Comments on Provisions Pertaining to U.S. Investment in Certain National Security Technologies and Products in Countries of Concern. (With Emily Kilcrease, Geoffrey Gertz, Tim Fist, and Ngor Luong) August. (Comments on Proposed Rule)\n2023. Comments on Provisions Pertaining to U.S. Investment in Certain National Security Technologies and Products in Countries of Concern. (With Emily Kilcrease, Tim Fist, Ngor Luong, and Emily Weinstein) September. (Comments on Advanced Notice of Proposed Rulemaking)"
+    "text": "Technical Comments on Government Proposed Regulation\n\nComments on Provisions Pertaining to U.S. Investment in Certain National Security Technologies and Products in Countries of Concern\nEmily Kilcrease, Geoffrey Gertz, Tim Fist, Ngor Luong, and Sarah Bauerle Danzman. (Comments on Proposed Rule, August 2024.)\n\n\nComments on Provisions Pertaining to U.S. Investment in Certain National Security Technologies and Products in Countries of Concern\nEmily Kilcrease, Tim Fist, Sarah Bauerle Danzman, Ngor Luong, and Emily Weinstein. (Advanced Notice of Proposed Rulemaking, September 2023.)"
   },
   {
     "objectID": "about.html",

@@ -6,38 +6,120 @@ toc-location: right
 toc-depth: 2
 toc-title: "On this page"
 ---
+
 I write and comment on investment security policy strategy, design, and implementation. I am active in policy circles related to outbound investment controls, inward investment screening (especially CFIUS), export control policy, and economic security. I am a non-resident Senior Fellow at the Atlantic Council's Geoeocnomic Center, a Council on Foreign Relations Term Member, and a Senior Advisory Fellow at CELIS.
 
 ## Taskforce Activities
 
-CFR Economic Security
+::: research-item
+### [U.S Economic Security: Winning the Race for Tomorrow's Technology](https://www.cfr.org/task-force-report/us-economic-security)
+
+Participated as a Council on Foreign Relations Taskforce Member. Provided CFR's briefing to the Association of Lt. Governors in December 2025.
+:::
 
 ## Congressional and Government Testimony
 
-2025\. “Ensuring Investment Security is Narrow, Rigorous, and Fair.” Testimony before the House Committee on Financial Services Subcommittee on National Security Illicit Finance, and International Financial Services, 16 July.
+::: research-item
+### [Ensuring Investment Security is Narrow, Rigorous, and Fair](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=410789)
 
-2024\. “Outbound Investment from the United States to China.” Invited Written Testimony for the US-China Economic and Security Review Commission, 23 May.
+Testimony before the House Committee on Financial Services Subcommittee on National Security Illicit Finance, and International Financial Services, 16 July, 2025.
 
-2023\. “Private Funds/Markets and Outbound Investments in Countries of Concern,” Testimony before the U.S. Securities and Exchange Commission Investor Advisory Committee, 22 June.
+[<i class="fas fa-globe"></i> PDF](Articles\Bauerle_Danzman-2025-SPE.pdf){.btn .btn-sm .btn-outline-secondary} \| [<i class="fas fa-video"></i> Watch](https://www.youtube.com/live/4Om24-jVOjA){.btn .btn-sm .btn-outline-secondary}
+:::
 
-2022\. “Toward a Balanced Outbound Investment Screening Regime” Testimony before the Senate Committee on Banking, Housing, and Urban Affairs, 29 September.
+::: research-item
+### [Outbound Investment from the United States to China](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=410789)
+
+Invited Written Testimony for the US-China Economic and Security Review Commission, 23 May, 2024.
+
+[<i class="fas fa-globe"></i> PDF](Articles\Bauerle_Danzman-2025-SPE.pdf){.btn .btn-sm .btn-outline-secondary} \| [<i class="fas fa-video"></i> Watch](https://www.youtube.com/live/4Om24-jVOjA){.btn .btn-sm .btn-outline-secondary}
+:::
+
+::: research-item
+### [Private Funds/Markets and Outbound Investments in Countries of Concern](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=410789)
+
+Testimony before the U.S. Securities and Exchange Commission Investor Advisory Committee, 22 June, 2023.
+
+[<i class="fas fa-globe"></i> PDF](Articles\Bauerle_Danzman-2025-SPE.pdf){.btn .btn-sm .btn-outline-secondary} \| [<i class="fas fa-video"></i> Watch](https://www.youtube.com/live/4Om24-jVOjA){.btn .btn-sm .btn-outline-secondary}
+:::
+
+::: research-item
+### [Toward a Balanced Outbound Investment Screening Regime](https://financialservices.house.gov/calendar/eventsingle.aspx?EventID=410789)
+
+Testimony before the Senate Committee on Banking, Housing, and Urban Affairs, 29 September, 2022.
+
+[<i class="fas fa-globe"></i> PDF](Articles\Bauerle_Danzman-2025-SPE.pdf){.btn .btn-sm .btn-outline-secondary} \| [<i class="fas fa-video"></i> Watch](https://www.youtube.com/live/4Om24-jVOjA){.btn .btn-sm .btn-outline-secondary}
+:::
 
 ## Policy Reports and Commentary
 
-2024\. Bauerle Danzman, Sarah. Sharing the Post Carbon Economy Means Building a Resilient EV Supply Chain. Atlantic Council. September. https://www.atlanticcouncil.org/in-depth-research-reports/report/sharing-the-post-carbon-economy-means-building-a-resilient-ev-supply-chain/
+::: research-item
+### [Sharing the Post Carbon Economy Means Building a Resilient EV Supply Chain](https://www.atlanticcouncil.org/in-depth-research-reports/report/sharing-the-post-carbon-economy-means-building-a-resilient-ev-supply-chain/)
 
-2023\. Bauerle Danzman, Sarah. Shaping Investment Security Policy: A Guide for Business Associations. Center for Private Investment and Enterprise. May. https://www.cipe.org/resources/shaping-investment-security-policy-a-guide-for-business-associations/
+**Sarah Bauerle Danzman**. Atlantic Council. September 2024.
 
-2022\. Bauerle Danzman, Sarah and Emily Kilcrease. “The Illusion of Controls: Unilateral Attempts to Contain China’s Technology Ambitions Will Fail” Foreign Affairs 30 December. https://www.foreignaffairs.com/united-states/illusion-controls
+[<i class="fas fa-globe"></i> PDF](Articles\Bauerle_Danzman-2025-SPE.pdf){.btn .btn-sm .btn-outline-secondary} \| [<i class="fas fa-video"></i> Watch](https://www.youtube.com/live/4Om24-jVOjA){.btn .btn-sm .btn-outline-secondary}
+:::
 
-2022\. Bauerle Danzman, Sarah and Emily Kilcrease. Sand in the Silicon: Designing an Outbound Investment Controls Mechanism. Atlantic Council and CNAS Issue Brief. September.
+::: research-item
+### [Shaping Investment Security Policy: A Guide for Business Associations](https://www.cipe.org/resources/shaping-investment-security-policy-a-guide-for-business-associations/)
 
-2021\. Bauerle Danzman, Sarah. “National Security, Investment Review, and Sensitive Data.” Proceedings of the American Society of International Law 2021, doi:10.1017/amp.2021.103 2017 Bauerle Danzman, Sarah. “Leveraging WAIPA to Facilitate Private Sector Linkages.” World Association of Investment Promotion Agencies Research Note April. (1658 words)
+**Sarah Bauerle Danzman**. Center for Private Investment and Enterprise. May 2023.
 
-2016\. Bauerle Danzman, Sarah, Jacqueline Bauman, Michael Holmberg, Jonathan Hreha, Karis Neufeld, Anna Piskunova, Alec Resch, Jamie Spitz, Jocelyn Wallace, and Anna Williams. “Incentivizing an Increasingly Automated Manufacturing Sector: A Descriptive Analysis of U.S. States’ Manufacturing Investment Promotion Programs” Smart Incentives Policy Report December, pp. 1-20.
+[<i class="fas fa-globe"></i> PDF](Articles\Bauerle_Danzman-2025-SPE.pdf){.btn .btn-sm .btn-outline-secondary} \| [<i class="fas fa-video"></i> Watch](https://www.youtube.com/live/4Om24-jVOjA){.btn .btn-sm .btn-outline-secondary}
+:::
+
+::: research-item
+### [The Illusion of Controls: Unilateral Attempts to Contain China’s Technology Ambitions Will Fail](https://www.foreignaffairs.com/united-states/illusion-controls)
+
+**Sarah Bauerle Danzman** and Emily Kilcrease. *Foreign Affairs* 30 December.
+
+[<i class="fas fa-globe"></i> PDF](Articles\Bauerle_Danzman-2025-SPE.pdf){.btn .btn-sm .btn-outline-secondary} \| [<i class="fas fa-video"></i> Watch](https://www.youtube.com/live/4Om24-jVOjA){.btn .btn-sm .btn-outline-secondary}
+:::
+
+::: research-item
+### [Sand in the Silicon: Designing an Outbound Investment Controls Mechanism](https://www.foreignaffairs.com/united-states/illusion-controls)
+
+**Sarah Bauerle Danzman** and Emily Kilcrease. Atlantic Council and CNAS Issue Brief. September 2022.
+
+[<i class="fas fa-globe"></i> PDF](Articles\Bauerle_Danzman-2025-SPE.pdf){.btn .btn-sm .btn-outline-secondary} \| [<i class="fas fa-video"></i> Watch](https://www.youtube.com/live/4Om24-jVOjA){.btn .btn-sm .btn-outline-secondary}
+:::
+
+::: research-item
+### [National Security, Investment Review, and Sensitive Data](www.doi:10.1017/amp.2021.103)
+
+**Sarah Bauerle Danzman**. *Proceedings of the American Society of International Law* 2021.
+
+[<i class="fas fa-globe"></i> PDF](Articles\Bauerle_Danzman-2025-SPE.pdf){.btn .btn-sm .btn-outline-secondary} \| [<i class="fas fa-video"></i> Watch](https://www.youtube.com/live/4Om24-jVOjA){.btn .btn-sm .btn-outline-secondary}
+:::
+
+::: research-item
+### Leveraging WAIPA to Facilitate Private Sector Linkages
+
+**Sarah Bauerle Danzman**. World Association of Investment Promotion Agencies Research Note April, 2017.
+
+:::
+
+::: research-item
+### [Incentivizing an Increasingly Automated Manufacturing Sector: A Descriptive Analysis of U.S. States’ Manufacturing Investment Promotion Programs](https://cdn.shopify.com/s/files/1/0209/7122/files/Bauerle_Danzman_et_al_2016_White_Paper_Incentives.pdf?9785265759434988670)
+
+**Sarah Bauerle Danzman**, Jacqueline Bauman, Michael Holmberg, Jonathan Hreha, Karis Neufeld, Anna Piskunova, Alec Resch, Jamie Spitz, Jocelyn Wallace, and Anna Williams. Smart Incentives Policy Report December 2016, pp. 1-20.
+
+:::
+
 
 ## Technical Comments on Government Proposed Regulation
 
-2024\. Comments on Provisions Pertaining to U.S. Investment in Certain National Security Technologies and Products in Countries of Concern. (With Emily Kilcrease, Geoffrey Gertz, Tim Fist, and Ngor Luong) August. (Comments on Proposed Rule)
+::: research-item
+### [Comments on Provisions Pertaining to U.S. Investment in Certain National Security Technologies and Products in Countries of Concern](https://www.cnas.org/publications/commentary/provisions-pertaining-to-u-s-investments-in-certain-national-security-technologies-and-products-in-countries-of-concern)
 
-2023\. Comments on Provisions Pertaining to U.S. Investment in Certain National Security Technologies and Products in Countries of Concern. (With Emily Kilcrease, Tim Fist, Ngor Luong, and Emily Weinstein) September. (Comments on Advanced Notice of Proposed Rulemaking)
+Emily Kilcrease, Geoffrey Gertz, Tim Fist, Ngor Luong, and **Sarah Bauerle Danzman**. (Comments on Proposed Rule, August 2024.)
+
+:::
+
+::: research-item
+### [Comments on Provisions Pertaining to U.S. Investment in Certain National Security Technologies and Products in Countries of Concern](https://www.cnas.org/publications/commentary/comments-on-provisions-pertaining-to-u-s-investments-in-certain-national-security-technologies-and-products-in-countries-of-concern)
+
+Emily Kilcrease, Tim Fist, **Sarah Bauerle Danzman**, Ngor Luong, and Emily Weinstein. (Advanced Notice of Proposed Rulemaking, September 2023.)
+
+:::

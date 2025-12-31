@@ -7,16 +7,25 @@ toc-depth: 2
 toc-title: "On this page"
 ---
 
-Here include:
+Along with my scholarly, teaching, and policy pursuits, I am passionate about academic leadership. This professional interest is guided by the Phi Beta Kappa motto, "Love of learning is the guide of life." A liberal arts education provides the best foundation for a virtuous, civicly minded, and fulfilling life. For too long, university leaders have not articulated the moral and financial value of the liberal arts, have allowed liberal arts curricula to be diluted, and have not been nimble to rising costs and administrative bloat. I view academic leadership as a way to defend and improve the liberal arts for future generations.
 
 ## Data Sets
-PRISM
 
-NSF
+I am co-PI for the Politics and Regulation of Investment Screening Mechanisms (PRISM) project. Please see more, including how to request access to the dataset [here](https://investmentscreening.princeton.edu). The PRISM dataset is updated yearly.
+
+I am PI for the NSF-funded project Transnational Political Business Connections. When the dataset is shareable, it will be linked here.
 
 ## Law & Geoeconomics
 
+I am co-editor-in-chief for the Brill journal **Law & Geoeconomics**. This multidisciplinary journal publishes scholarly, peer-reviewed articles on issues related to concepts such as “economic statecraft”, “weaponized interdependence”, “economic diplomacy”, “economic security”, “economic warfare”, and “geoeconomics.” As scholarly interest in this rearticulation of economic and security logics increases, **Law & Geoeconomics** provides a venue to develop the conceptual, theoretical, and empirical knowledge necessary to advance interdisciplinary inquiry and help consolidate this emerging field. To learn more about the journal, read its issues, and submit a manuscript, see [here](https://brill.com/view/journals/lgeo/lgeo-overview.xml?language=en&srsltid=AfmBOoqoDoJ8fpUPkyw3aiHA3jSD1ejnhXcdjxpCpqS7-82HJZJATf5a).
+
 ## The Tobias Center for Innovation in International Development
 
-## Major Service Roles
+I am the founding director of the **Tobias Center for Innovation in International Development**. Housed in the Hamilton Lugar School of Global and International Studies, the Tobias Center supports multidisciplinary research on economic development (with an emphasis on measurement, evaluation, and learning), programming and pedagogy related to international development, and scholarly engagement with the policy community. See more [here](https://tobiasdevelopment.indiana.edu/about/index.html).
 
+## Other Major Service Roles
+
+-   I am an at-large representative for IUB's College Policy Committee. In 2024-25, I was the Policy Committee Chair.
+-   In 2025-26, I am the chair of the International Studies Executive Committee.
+-   I am on the steering committee for [Global Research in Political Economy](https://gripe.polisci.ucla.edu).
+-	I am on the executive committee for IUB's Gamma Chapter of Phi Beta Kappa
