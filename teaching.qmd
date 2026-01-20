@@ -10,140 +10,49 @@ toc-title: "Academic Year"
 
 I teach courses in the International Studies department at the Hamilton Lugar School of Global and International Studies at Indiana University, Bloomington. My primary teaching responsibilities include core courses in the INTL B.A/S. degree's global development concentration, the new INTL International Financial Governance, Trade, and Development B.S., the Dual HLS/O'Neill Masters in International Affairs, and resesarch design courses required across each of these degrees. Here, I maintain the past few years of my courses.
 
-## 2025-26
+## Philosophy
+The university classroom is a space of contemplation and experimentation, and students have the most capacity to master material and hone skills of critical thinking and analysis when they have the opportunity to “circle around” challenging ideas. To provide students the framework of critical inquiry, and to engage them as partners in knowledge creation, I structure my courses around three pedagogical approaches: active learning, frequent and low-risk assessment, and authentic assignments. To create an inclusive learning environment, I take care to ensure that syllabi reflect diversity of thought, experiences, and identities. In an era of astronomical costs of university education, I integrate discussions of career paths and transferable skills into all of my courses.
 
-::: {.course-container}
-
-::: {.course-card}
-::: {.course-header}
-::: {.hex-icon}
-:::
-
-::: {.course-title-block}
-### Research Design
-**INTL-I315/515** · Fall 
-:::
-:::
-
-Introduction to quantitative and qualitative research methods in international studies, with emphasis on statistical analysis and case study design.
-
-::: {.course-buttons}
-[<i class="fas fa-globe"></i> Course Website](https://courses.iu.edu/intl-i315){.btn .btn-primary .btn-sm}
-[<i class="fas fa-file-pdf"></i> Syllabus](files/INTL-I315-syllabus.pdf){.btn .btn-outline-primary .btn-sm}
-:::
-:::
-
-::: {.course-card}
-::: {.course-header}
-::: {.hex-icon}
-:::
-### Global Governance and International Institutions
-**INTL-I521** · Fall 
-:::
-:::
-
-Introduction to quantitative and qualitative research methods in international studies, with emphasis on statistical analysis and case study design.
-
-::: {.course-buttons}
-[<i class="fas fa-globe"></i> Course Website](https://courses.iu.edu/intl-i315){.btn .btn-primary .btn-sm}
-[<i class="fas fa-file-pdf"></i> Syllabus](files/INTL-I315-syllabus.pdf){.btn .btn-outline-primary .btn-sm}
-:::
-:::
-
-::: {.course-card}
-::: {.course-header}
-::: {.hex-icon}
-:::
-
-### International Political Economy
-**INTL-I3XX** · Summer 
-:::
-:::
-
-Introduction to quantitative and qualitative research methods in international studies, with emphasis on statistical analysis and case study design.
-
-::: {.course-buttons}
-[<i class="fas fa-globe"></i> Course Website](https://courses.iu.edu/intl-i315){.btn .btn-primary .btn-sm}
-[<i class="fas fa-file-pdf"></i> Syllabus](files/INTL-I315-syllabus.pdf){.btn .btn-outline-primary .btn-sm}
-:::
-:::
-
-::: {.course-card}
-::: {.course-header}
-::: {.hex-icon}
-:::
-
-## 2024-2025
-
-### Research Design
-**INTL-I315/515** · Fall · Spring
-:::
-:::
-
-Introduction to quantitative and qualitative research methods in international studies, with emphasis on statistical analysis and case study design.
-
-::: {.course-buttons}
-[<i class="fas fa-globe"></i> Course Website](https://courses.iu.edu/intl-i315){.btn .btn-primary .btn-sm}
-[<i class="fas fa-file-pdf"></i> Syllabus](files/INTL-I315-syllabus.pdf){.btn .btn-outline-primary .btn-sm}
-:::
-:::
-
-::: {.course-card}
-::: {.course-header}
-::: {.hex-icon}
-:::
+## Frequent Courses
 
 ### Global Business
-**INTL-103** · Fall
-:::
-:::
+
+**INTL-I103** · Next Offered Fall 2026
+
+What does it mean to be a global corporation in the 21st Century? What kinds of dilemmas do business leaders face when operating in different counties with varying political, cultural, technological, and environmental landscapes? Who holds power in the global economy and how does this affect firm behaviors? How can communities harness the positive aspects of global business while managing the social, environmental, and security risks they generate? Should consumers and voters hold global businesses to high social and environmental standards, and if so, how? In this course, students learn how to analyze the opportunities and challenges multinational companies generate using real cases from global companies including: the NBA, Exxon Mobil, Nike, Patagonia, Starbucks, Apple, and even TikTok. Individually and with teams students will use political, economic, historical, and cultural knowledge to critically analyze, debate, and solve real-world problems that business, political, and community leaders face. Through studying and debating these cases, students will develop a set of valuable skills including risk analysis, ethical reasoning, and cultural competencies necessary to becoming an effective leader in corporate, community, and political environments as well as learn the basics of writing a policy memo
+
+### Global Development
+
+**INTL-I203** Last Offered Spring 2021
+
+Why are some countries rich while other countries remain poor? Why are some societies characterized by relative equality of wealth among its members (i.e. Sweden, China before 1978), while others are vastly unequal (i.e. Brazil)? How do recent challenges such as globalization, democratic backsliding, and global climate change affect global, national, and local efforts at facilitating development? I-203 is the core course for the International Studies thematic concentration in Global Development. In this course students will learn about the post-WWII global architecture surrounding global development governance, study both institutional and behavioral factors that influence development outcomes, and use both theory and empirical observation to generate insight into the enduring challenges of development as well as the most promising pathways toward development at local, national, and global levels.
+
+### Research Design in International Studies
+
+**INTL-I315/515** · Last Offered Fall 2025
+
+This course provides an introduction to the principles and techniques of social science research. Throughout the course, students will learn how to evaluate and conduct rigorous systematic social science research. We will begin by addressing core concepts and issues that cut across methods, including theories of causality, sampling, measurement, and ethics. We will then focus on six approaches used commonly in international studies, including case studies, ethnography and in-depth interviews, archival research and content analysis, surveys, statistical inference, and multimethod approaches. Our coverage will not provide in‐depth training in any particular method, but instead will focus on understanding the advantages and disadvantages of different techniques and matching methods appropriately to research questions. To provide a thematic grounding to the course and most of the examples used to further understanding of the research design and implementation process, we will read and interact with research on the topic of democratic erosion.
+
+### Global Economic Governance
+**INTL-I310** · Next Offered Spring 2027
+
+This course arms students with the empirical knowledge and analytical skills necessary to make sense of why international politics is often characterized by cooperation and when we might expect interactions among states to be predominantly conflictual. We will focus primarily on the structure of international economic governance since World War II, and emphasize the politics of trade, monetary, and financial cooperation. We will also analyze the sources of challenges - especially the US-China rivalry - to the current constellation of global economic governance structures, and consider how these challenges will affect our global system of economic cooperation and conflict.
+
+### International Political Economy
+
+**INTL-I3XX** · Next Offered Summer 2026
 
 Introduction to quantitative and qualitative research methods in international studies, with emphasis on statistical analysis and case study design.
 
-::: {.course-buttons}
-[<i class="fas fa-globe"></i> Course Website](https://courses.iu.edu/intl-i315){.btn .btn-primary .btn-sm}
-[<i class="fas fa-file-pdf"></i> Syllabus](files/INTL-I315-syllabus.pdf){.btn .btn-outline-primary .btn-sm}
-:::
-:::
+### Harnessing Foreign Investment for Development
 
-::: {.course-card}
-::: {.course-header}
-::: {.hex-icon}
-:::
+**INTL-I427/503** · Next Offered Spring 2027
 
-### Global Development
-**INTL-I522** · Spring
-:::
-:::
+Corporations that operate across national boundaries powerfully structure the nature of production, consumption, and the distribution of wealth globally. Multinational enterprises (MNEs) can help bring economic growth and shared prosperity to developing countries, but critics often emphasize the negative consequences such large global firms can have on local societies. How can states and international development organizations harness the positive potential of MNEs while minimizing their potential for exploitation? This course will provide students the empirical knowledge and analytical skills necessary to make sense of the influence of MNEs at both the local and global level, and the attempts to regulate their behavior.
 
-I-522 is the core graduate course in Global Development in International Studies. We will explore the political, economic, social and cultural forces shaping global development outcomes.
+### Global Governance and International Institutions
 
-::: {.course-buttons}
-[<i class="fas fa-globe"></i> Course Website](https://courses.iu.edu/intl-i315){.btn .btn-primary .btn-sm} 
-[<i class="fas fa-file-pdf"></i> Syllabus](files/INTL-I315-syllabus.pdf){.btn .btn-outline-primary .btn-sm}
-:::
-:::
+**INTL-I521** · Most Recently Offered Fall 2025
 
-::: {.course-card}
-::: {.course-header}
-::: {.hex-icon}
-:::
-
-## 2023-2024
-### Geoeconomic Statecraft
-**INTL-I503** · Summer 
-:::
-:::
-
-Introduction to core concepts fo geconomics, economic statecraft, and ecounty security. Students will analyze the use of financial sanctions, strategic trade restrictions, and investment security policy and evaluate the effectiveness and implications of economic statecraft on global politics.
-
-::: {.course-buttons}
-[<i class="fas fa-globe"></i> Course Website](https://courses.iu.edu/intl-i315){.btn .btn-primary .btn-sm}
-[<i class="fas fa-file-pdf"></i> Syllabus](Media/INTL503-Geoeconomic Statecraft.pdf){.btn .btn-outline-primary .btn-sm}
-:::
-:::
-
-::: {.course-card}
-::: {.course-header}
-::: {.hex-icon}
-:::
+This course provides students the empirical knowledge and analytical skills necessary to make sense of why international politics is often characterized by cooperation and when we might expect interactions among states to be predominantly conflictual. We will focus primarily on the structure of international governance since World War II, and emphasize the politics of security, trade, monetary, financial, and technical cooperation. We will also analyze the sources of challenges to the current constellation of global governance structures and consider how these challenges will affect our global system of cooperation and conflict.
+At the end of this course, students will have a broad base of knowledge about the key structures of contemporary global governance: the UN, NATO, WTO, the IMF, regional trade and investment treaties, and informal clubs such as the G-7 and G-20. Students will be able to critically evaluate key distributive conflicts among states and market actors using theories and analytic tools of social science. Students will also be able to use their core knowledge and analytic training to interpret and explain contemporary threats to and changes in the global order.
